@@ -1,1 +1,1 @@
-socks://Og@87.248.145.82:1080#%40vmesskhodam
+socks://193.151.134.45:50000#@meliproxyy
