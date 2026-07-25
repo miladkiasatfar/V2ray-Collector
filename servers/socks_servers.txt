@@ -1,1 +1,1 @@
-socks://94.184.4.40:3080?type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20Tehr%C4%81n%20%7C%20%E2%8F%B1750ms%20%7C%20%E2%9A%A1561KB%2Fs%20%7C%20%40NamazVPN
+socks://Og@87.248.145.82:1080#%40vmesskhodam
