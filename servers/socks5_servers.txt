@@ -1,1 +1,1 @@
-socks5://128.140.46.169:13482&host=socks5.revil-time3.workers.dev&packetEncoding=xudp&sni=socks5.revil-time3.workers.dev&fp=chrome&encryption=none#4Sarina-8417
+socks5://128.140.46.169:13482@NebulaVPNx&packetEncoding=xudp#
