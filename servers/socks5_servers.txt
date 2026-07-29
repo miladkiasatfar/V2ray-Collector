@@ -1,1 +1,1 @@
-socks5://65.20.105.241:10001#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Madrid%20%7C%20%E2%8F%B14626ms%20%7C%20%E2%9A%A1156KB%2Fs%20%7C%20%40NamazVPN
+socks5://128.140.46.169:13482&host=socks5.revil-time3.workers.dev&packetEncoding=xudp&sni=socks5.revil-time3.workers.dev&fp=chrome&encryption=none#4Kian-8456
