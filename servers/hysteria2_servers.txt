@@ -1,1 +1,7 @@
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&amp;insecure=1&amp;allowInsecure=1&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p#%40Daily_Configs
+hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443/?sni=prodfr.h2corp.org#%F0%9F%A6%8443@oneclickvpnkeys
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje&amp;insecure=0&amp;sni=assets.gateway-stream.com#
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.133:8443/?sni=grape-zet-turbo-nl.yyuyy.com#%F0%9F%A6%8439@oneclickvpnkeys
+hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%F0%9F%8E%9261@oneclickvpnkeys
+hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#%F0%9F%8E%9265@oneclickvpnkeys
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%E2%8F%B1732ms%20%7C%20%E2%9A%A1999KB%2Fs%20%7C%20%40NamazVPN
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443/?sni=grape-turbo-fr.roxa.org#%F0%9F%A6%8442@oneclickvpnkeys
