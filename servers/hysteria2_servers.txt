@@ -1,6 +1,5 @@
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@178.215.238.30:443/?sni=germany1.noesissite.ru#%F0%9F%A6%8435@oneclickvpnkeys
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443/?sni=prodfr.h2corp.org#%F0%9F%A6%8443@oneclickvpnkeys
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&amp;obfs=salamander&amp;obfs-password=fd3olglr2bmimgje&amp;insecure=0&amp;sni=assets.gateway-stream.com#%40v2raybaaz%20%E2%81%B4
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443/?sni=taga5.api3-max.ru#%F0%9F%A6%8441@oneclickvpnkeys
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga9.api3-max.ru:443/?sni=taga9.api3-max.ru#%F0%9F%A6%8438@oneclickvpnkeys
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443/?sni=wopa7.api3-max.ru#%F0%9F%A6%8437@oneclickvpnkeys
