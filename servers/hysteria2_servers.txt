@@ -1,5 +1,2 @@
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443?headerType=none&amp;encryption=none&amp;sni=wopa7.api3-max.ru&amp;insecure=0#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443?sni=wopa9.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D
-hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443?insecure=1&amp;security=tls&amp;sni=azer-tea-grape.bumbleshrimp.com#Azerbaijan
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&amp;sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443?headerType=none&amp;encryption=none&amp;sni=grape-turbo-fr.roxa.org&amp;insecure=0#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?security=tls&amp;sni=fr2.h2corp.org#Moldavia
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443?insecure=1&amp;security=tls&amp;sni=13.229.110.73#Singapore
